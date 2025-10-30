@@ -1,0 +1,20 @@
+# Telegram Bot Framework
+python-telegram-bot==20.7
+
+# HTTP Requests
+requests==2.32.3
+
+# Database
+sqlite3-binary==0.0.1
+
+# Logging and Utilities
+colorama==0.4.6
+
+# Date and Time Utilities
+pytz==2024.2
+
+# JSON and Parsing
+ujson==5.10.0
+
+# Optional (for better async performance)
+aiohttp==3.10.10
